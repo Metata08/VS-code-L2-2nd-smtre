@@ -1,2 +1,2 @@
 # VS-code--L2-2nd-smtre
- mes code source de la licence2 SAT UGB
+ mes codes sources de la licence 2 SAT UGB
