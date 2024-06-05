@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1669516532 source:g:\codeblocks\vs code  l2 2nd smtre\liste\nouveau dossier\liste doublement chainee\main.c
+	"liste2chaine.h"
+
+1669516205 g:\codeblocks\vs code  l2 2nd smtre\liste\nouveau dossier\liste doublement chainee\liste2chaine.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1669516514 source:g:\codeblocks\vs code  l2 2nd smtre\liste\nouveau dossier\liste doublement chainee\liste2chaine.c
+	"liste2chaine.h"
+

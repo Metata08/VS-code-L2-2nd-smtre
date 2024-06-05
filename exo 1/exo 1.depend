@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1650992895 source:g:\code blocks\algo 3\fiche 1\exo 1\entreprise.c
+	<stdio.h>
+	<stdlib.h>
+	"entreprise.h"
+	<string.h>
+
+1650989349 g:\code blocks\algo 3\fiche 1\exo 1\entreprise.h
+
+1650991053 source:g:\code blocks\algo 3\fiche 1\exo 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"entreprise.h"
+

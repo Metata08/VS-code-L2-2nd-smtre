@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1670113869 source:g:\codeblocks\vs code  l2 2nd smtre\td algo 4\exo3\main.c
+	"liste.h"
+
+1670114378 g:\codeblocks\vs code  l2 2nd smtre\td algo 4\exo3\liste.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1670114171 source:g:\codeblocks\vs code  l2 2nd smtre\td algo 4\exo3\liste.c
+	"liste.h"
+

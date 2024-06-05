@@ -1,0 +1,1 @@
+un arbre enraciné (tous les elements sont accessibles à partir d'un élément le noeud racine)
